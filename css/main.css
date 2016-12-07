@@ -6,3 +6,26 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.img-1 {
+  float: left;
+  width: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.img-2 {
+  float: right;
+  width: 40px;
+  padding: 0;
+}
+
+
+
+
+- *Text sizes:* `2rem`, `1.125rem`
+- *Line height:* `1.5`
+- *Colours:* `#d05c2e`, `#a63f38`
+- *Margins:* `0`, `0 0 .7rem`, `.3rem`
+- *Paddings:* `0`, `.5em 0 0`, `.4rem 0`
+- *Grain icon width:* `40px`
